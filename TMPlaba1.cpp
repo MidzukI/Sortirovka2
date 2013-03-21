@@ -14,7 +14,7 @@ for (int i = 0; i < 10; i++)
 Array[i] = 1 + rand() % 9;
 }
 
-cout << "Oroginal array: ";
+cout << "Original array: ";
 for (int i = 0; i < 10; i++)
 cout << Array[i] << " ";
 cout << endl;
